@@ -4,7 +4,7 @@
 BI analyst who's changing careers 
 
 ## Interests:
-I am interested in creating user-friendly, understandable and beautiful interfaces. 
+I am interested in creating user-friendly and beautiful interfaces. 
 
 ## Learning:
 🌱 I’m currently learning front-end development through [The Odin Project](https://www.theodinproject.com/) and [Scrimba](https://scrimba.com/) 
