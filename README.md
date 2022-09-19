@@ -1,7 +1,13 @@
 # 👋 Hi, I’m Ulan
 
 ## Journey: 
-BI analyst who's changing careers since september 2022  
+BI analyst who's changing careers 
+
+## Interests:
+I am interested in creating user-friendly, understandable and beautiful interfaces. 
+
+## Learning:
+🌱 I’m currently learning front-end development through [The Odin Project](https://www.theodinproject.com/) and [Scrimba](https://scrimba.com/) 
 
 ## Skills:
 <div>
