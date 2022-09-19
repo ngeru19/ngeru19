@@ -20,17 +20,10 @@ I’m currently learning front-end development through <a href="https://www.theo
 <h3> Repositories: </h3>
 <details>
   <summary>Scrimba solo projects</summary>
-  <p> As a part of Scrimba fornt-end developer career path you have to do solo projects. There is no any guidance or ready solution for them, only design and some requirements.
+  <p> As a part of Scrimba front-end developer career path you have to do so-called solo projects. There is no any guidance or ready solution for them, only design and some requirements.
   <blockquote>
     <ul>
-      <li><a href="https://github.com/Ullavs/quizzical">Quizzical (React)</a></li>
-      <li><a href="https://github.com/Ullavs/travel-journal">Travel Journal (React)</a></li>
-      <li><a href="https://github.com/Ullavs/digital-business-card">Digital business card (React)</a></li>
-      <li><a href="https://github.com/Ullavs/movie-watchlist">Movie watchlist</a></li>
-      <li><a href="https://github.com/Ullavs/unit-converter">Unit converter</a></li>
-      <li><a href="https://github.com/Ullavs/password-generator">Password generator</a></li>
-      <li><a href="https://github.com/Ullavs/invoice-creator">Invoice creator</a></li>
-      <li><a href="https://github.com/Ullavs/color-scheme-generator">Color scheme generator</a></li>
+      <li><a href="https://github.com/ngeru19/basketballScorecard">Basketball Scorecard</a></li>      
     </ul>
   </blockquote>
 </details> 
