@@ -20,8 +20,7 @@ I’m currently learning front-end development through <a href="https://www.theo
 <h3> Repositories: </h3>
 <details>
   <summary>Scrimba solo projects</summary>
-  <p> 
-  Throughout the <a href="https://scrimba.com/learn/frontend">Scrimba front-end developer career path</a> you are encouraged to do multiple solo projects. Solo means there will be no guidance or solution to the challenge; only the design and requirements of the projects are given.</p>
+  <p> As a part of Scrimba fornt-end developer career path you have to do solo projects. There is no any guidance or ready solution for them, only design and some requirements.
   <blockquote>
     <ul>
       <li><a href="https://github.com/Ullavs/quizzical">Quizzical (React)</a></li>
