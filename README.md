@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Ulan
-### Skills:
+
+## Journey: 
+BI analyst who's changing careers since september 2022  
+
+## Skills:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
