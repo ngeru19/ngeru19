@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m Ulan </h1>
 
-### Journey: 
+<h3> Journey: </h3> 
 BI analyst who's changing careers 
 
 ### Interests:
