@@ -7,7 +7,7 @@ BI analyst who's changing careers
 I am interested in creating user-friendly and beautiful interfaces. 
 
 ### Learning:
-🌱 I’m currently learning front-end development through [The Odin Project](https://www.theodinproject.com/) and <img src="https://scrimba.com/static/art/dark-logo.svg" title="Scrimba" alt="Scrimba" width="10" height="10"/>&nbsp; [Scrimba](https://scrimba.com/) 
+🌱 I’m currently learning front-end development through [The Odin Project](https://www.theodinproject.com/) and <img src="https://scrimba.com/static/art/dark-logo.svg" title="Scrimba" alt="Scrimba" width="30" height="10"/>&nbsp; [Scrimba](https://scrimba.com/) 
 
 ## Skills:
 <div>
