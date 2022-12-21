@@ -7,7 +7,7 @@ BI analyst who's changing careers
 I am interested in creating user-friendly and beautiful interfaces. 
 
 ### Learning:
-I’m currently learning front-end development through [Scrimba]("https://scrimba.com")
+I’m currently learning front-end development through [Scrimba]("scrimba.com")
 
 <h3> Skills: </h3>
 <div>
