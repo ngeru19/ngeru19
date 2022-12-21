@@ -7,7 +7,7 @@ BI analyst who's changing careers
 I am interested in creating user-friendly and beautiful interfaces. 
 
 ### Learning:
-I’m currently learning front-end development through <a href="https://www.theodinproject.com/"> The Odin Project </a> and <a href="https://scrimba.com"> Scrimba </a> 
+I’m currently learning front-end development through [Scrimba]("https://scrimba.com")
 
 <h3> Skills: </h3>
 <div>
@@ -21,7 +21,7 @@ I’m currently learning front-end development through <a href="https://www.theo
 
 <h3> Repositories: </h3>
 <details>
-  <summary>My projects</summary><br />
+  <summary>My ready projects</summary><br />
   <blockquote>
     <ul>
       <li><a href="https://github.com/ngeru19/prs"> "Rock, paper, scissors, lizard, spock" game</a></li>      
