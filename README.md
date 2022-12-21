@@ -24,7 +24,7 @@ I’m currently learning front-end development through <a href="https://www.theo
   <summary>My projects</summary><br />
   <blockquote>
     <ul>
-      <li><a href="https://github.com/ngeru19/prs">Rock, paper, scissors, lizard, spock game</a></li>      
+      <li><a href="https://github.com/ngeru19/prs"> "Rock, paper, scissors, lizard, spock" game</a></li>      
     </ul>
   </blockquote>
 </details> 
