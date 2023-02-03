@@ -21,10 +21,11 @@ I’m currently learning front-end development
 
 <h3> Repositories: </h3>
 <details>
-  <summary>My ready projects</summary><br />
+  <summary>Noteworthy ones</summary><br />
   <blockquote>
     <ul>
-      <li><a href="https://github.com/ngeru19/prs"> "Rock, paper, scissors, lizard, spock" game</a></li>      
+      <li><a href="https://github.com/ngeru19/prs"> "Rock, paper, scissors, lizard, spock" game</a></li>
+      <li><a href="https://github.com/ngeru19/baffet"> Baffet landing page</a></li>  
     </ul>
   </blockquote>
 </details> 
