@@ -1,13 +1,7 @@
 # 👋 Hi, I’m Ulan </h1>
 
-### Journey: 
-BI analyst who's changing careers
-
 ### Interests:
 I am interested in creating user-friendly and beautiful interfaces. 
-
-### Learning:
-I’m currently learning front-end development
 
 <h3> Skills: </h3>
 <div>
