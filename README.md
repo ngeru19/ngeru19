@@ -13,15 +13,5 @@ I am interested in creating user-friendly and beautiful interfaces.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="35" height="35"/>
 </div>    
 
-<h3> Repositories: </h3>
-<details>
-  <summary>Noteworthy ones</summary><br />
-  <blockquote>
-    <ul>
-      <li><a href="https://github.com/ngeru19/prs"> "Rock, paper, scissors, lizard, spock" game</a></li>
-      <li><a href="https://github.com/ngeru19/baffet"> Baffet landing page</a></li>  
-    </ul>
-  </blockquote>
-</details> 
 
 
