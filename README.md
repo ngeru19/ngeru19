@@ -10,6 +10,13 @@ I am interested in creating user-friendly and beautiful interfaces.
   ![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
   ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![typescript](https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+  ![react](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![next](https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+  ![redux](https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
+  ![jest](https://img.shields.io/badge/jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
+  ![tailwind](https://img.shields.io/badge/tailwind-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+  ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 <div>
   
