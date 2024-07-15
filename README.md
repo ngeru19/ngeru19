@@ -5,7 +5,7 @@ I am interested in creating user-friendly and beautiful interfaces.
 
 <h3> Stack: </h3>
 
-![HTML](https://img.shields.io/badge/html%20-%2314354C.svg?&style=for-the-badge&logo=html&logoColor=white)
+![HTML](https://img.shields.io/badge/html%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white)
 
 
 <!-- <div>
